@@ -1,0 +1,15 @@
+C:\Users\oliver\Desktop\pokemon-dentaku1\pokemon-dentaku1\bin\Release\pokemon-dentaku1.exe.config
+C:\Users\oliver\Desktop\pokemon-dentaku1\pokemon-dentaku1\bin\Release\pokemon-dentaku1.exe
+C:\Users\oliver\Desktop\pokemon-dentaku1\pokemon-dentaku1\bin\Release\pokemon-dentaku1.pdb
+C:\Users\oliver\Desktop\pokemon-dentaku1\pokemon-dentaku1\obj\Release\pokemon-dentaku1.csprojAssemblyReference.cache
+C:\Users\oliver\Desktop\pokemon-dentaku1\pokemon-dentaku1\obj\Release\MainWindow.g.cs
+C:\Users\oliver\Desktop\pokemon-dentaku1\pokemon-dentaku1\obj\Release\App.g.cs
+C:\Users\oliver\Desktop\pokemon-dentaku1\pokemon-dentaku1\obj\Release\pokemon-dentaku1_MarkupCompile.cache
+C:\Users\oliver\Desktop\pokemon-dentaku1\pokemon-dentaku1\obj\Release\pokemon-dentaku1_MarkupCompile.lref
+C:\Users\oliver\Desktop\pokemon-dentaku1\pokemon-dentaku1\obj\Release\MainWindow.baml
+C:\Users\oliver\Desktop\pokemon-dentaku1\pokemon-dentaku1\obj\Release\pokemon-dentaku1.g.resources
+C:\Users\oliver\Desktop\pokemon-dentaku1\pokemon-dentaku1\obj\Release\pokemon_dentaku1.Properties.Resources.resources
+C:\Users\oliver\Desktop\pokemon-dentaku1\pokemon-dentaku1\obj\Release\pokemon-dentaku1.csproj.GenerateResource.cache
+C:\Users\oliver\Desktop\pokemon-dentaku1\pokemon-dentaku1\obj\Release\pokemon-dentaku1.csproj.CoreCompileInputs.cache
+C:\Users\oliver\Desktop\pokemon-dentaku1\pokemon-dentaku1\obj\Release\pokemon-dentaku1.exe
+C:\Users\oliver\Desktop\pokemon-dentaku1\pokemon-dentaku1\obj\Release\pokemon-dentaku1.pdb
